@@ -31,26 +31,6 @@
       <li class="nav-item">
         <router-link
           class="nav-link"
-          to="/work">Work</router-link>
-      </li>
-      <li class="nav-item">
-        <router-link
-          class="nav-link"
-          to="/process">Process</router-link>
-      </li>
-      <li class="nav-item">
-        <router-link
-          class="nav-link"
-          to="/services">Services</router-link>
-      </li>
-      <li class="nav-item">
-        <router-link
-          class="nav-link"
-          to="/testimonals">Testimonals</router-link>
-      </li>
-      <li class="nav-item">
-        <router-link
-          class="nav-link"
           to="/contact">Contact</router-link>
       </li>
 
