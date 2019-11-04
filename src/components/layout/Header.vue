@@ -48,5 +48,7 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-
+.router-link-exact-active{
+  color:#10c9c3!important;
+}
 </style>
