@@ -1,4 +1,6 @@
 # ex-piroll
+[See it live!](https://kahore.github.io/ex-piroll/)
+
 It's an example on Vue.js project.
 Basic landing SPA with 3 pages - Home, about and contact
 
